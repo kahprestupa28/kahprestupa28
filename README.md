@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-meu nome é kamillty 
+meu nome é kamilly
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
